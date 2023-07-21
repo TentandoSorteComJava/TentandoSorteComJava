@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Me chamo Rafael Yudi Shirakura</h1>
 <h3 align="center">Um simples e alegre estudante de Informática na UEM</h3>
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/images/d2110c50a22020900743aaad39091499/tenor.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/images/d2110c50a22020900743aaad39091499/tenor.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tentandosortecomjava&label=Profile%20views&color=0e75b6&style=flat" alt="tentandosortecomjava" /> </p>
 
